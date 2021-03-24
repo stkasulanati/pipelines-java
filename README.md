@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/suryatejak5a2/suryatejak5a2/_apis/build/status/stkasulanati.pipelines-java?branchName=master)](https://dev.azure.com/suryatejak5a2/suryatejak5a2/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
