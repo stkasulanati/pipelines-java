@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-18.04-LTS
+pool: Azure VMSS Agent Pool
 
 steps:
 - task: Maven@3
